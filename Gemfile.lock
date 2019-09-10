@@ -228,7 +228,7 @@ DEPENDENCIES
   mysql2 (>= 0.4.4, < 0.6.0)
   puma (~> 3.11)
   rails (~> 5.2.3)
-  rspec-rails (~> 3.5)
+  rspec-rails (~> 3.8)
   sass-rails (~> 5.0)
   shoulda-matchers (~> 3.1)
   slim-rails
