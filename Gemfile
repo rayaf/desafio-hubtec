@@ -43,7 +43,7 @@ group :development, :test do
 end
 
 group :test do
-  gem "database_cleaner", '1.5'
+  gem "database_cleaner", '1.7'
   gem 'shoulda-matchers', '~> 3.1'
   gem 'factory_bot_rails'
   gem 'faker'
